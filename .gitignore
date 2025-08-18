@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+plateenv/
+venv/
+env/
+Dataset/
+input_images/
+cropped_images/
+runs/
+*.pt
+.vscode/
+.idea/
+.env
